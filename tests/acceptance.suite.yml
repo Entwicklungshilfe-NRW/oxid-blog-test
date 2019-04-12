@@ -1,0 +1,11 @@
+class_name: AcceptanceTester
+modules:
+  enabled:
+    - WebDriver
+    - Asserts
+env:
+  firefox:
+    modules:
+      config:
+        WebDriver:
+          browser: 'firefox'

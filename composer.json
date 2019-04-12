@@ -1,0 +1,13 @@
+{
+    "name": "rolandgolla/oxid-blog-cc",
+    "require-dev": {
+        "codeception/codeception": "^2.5"
+    },
+    "authors": [
+        {
+            "name": "Roland Golla",
+            "email": "rolandgolla@gmail.com"
+        }
+    ],
+    "require": {}
+}
